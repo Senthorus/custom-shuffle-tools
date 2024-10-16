@@ -40,7 +40,7 @@ import multiprocessing
 from walkoff_app_sdk.app_base import AppBase
 
 class Tools(AppBase):
-    __version__ = "1.2.0"
+    __version__ = "1.1.0"
     app_name = (
         "Custom python tool"  # this needs to match "name" in api.yaml for WALKOFF to work
     )

@@ -14,3 +14,23 @@ azure-core
 numpy
 pandas
 regex
+matplotlib 
+seaborn 
+scipy 
+scikit-learn 
+flask django 
+fastapi 
+tornado 
+requests 
+plotly 
+dash 
+beautifulsoup4 
+scrapy 
+azure-sdk-for-python 
+google-cloud 
+cython 
+openpyxl 
+colorama 
+msgraph 
+microsoft-kiota-abstractions 
+opencv-python

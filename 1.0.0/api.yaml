@@ -1,6 +1,6 @@
 ---
 app_version: 1.0.0
-name: Custom python tool
+name: Custom_python_tool
 description: A tool app for Shuffle. Gives access to most missing features along with Liquid.
 tags:
   - Testing
