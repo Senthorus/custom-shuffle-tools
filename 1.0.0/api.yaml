@@ -1,18 +1,18 @@
 ---
 app_version: 1.0.0
-name: Custom_python_tool
-description: A tool app for Shuffle. Gives access to most missing features along with Liquid.
+name: Custom python tool
+description: A Python interpreter with several libraries already installed.
 tags:
-  - Testing
-  - Shuffle
+  - Senthorus
+  - Python
 categories:
   - Other 
 contact_info:
-  name: "@frikkylikeme"
+  name: "@senthorus"
   url: https://shuffler.io
   email: frikky@shuffler.io
 actions:
-  - name: execute_python
+  - name: custom_python
     description: Runs python with the data input. Any prints will be returned.
     parameters:
       - name: code

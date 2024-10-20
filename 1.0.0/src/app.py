@@ -40,7 +40,7 @@ import multiprocessing
 from walkoff_app_sdk.app_base import AppBase
 
 class Tools(AppBase):
-    __version__ = "1.1.0"
+    __version__ = "1.0.0"
     app_name = (
         "Custom python tool"  # this needs to match "name" in api.yaml for WALKOFF to work
     )
@@ -554,7 +554,7 @@ class Tools(AppBase):
         else:
             return re.sub(regex, replace_string, input_data)
 
-    def execute_python(self, code):
+    def custom_python(self, code):
         if len(code) == 36 and "-" in code:
             filedata = self.get_file(code)
             if filedata["success"] == False:

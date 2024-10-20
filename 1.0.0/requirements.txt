@@ -21,7 +21,6 @@ scikit-learn
 flask django 
 fastapi 
 tornado 
-requests 
 plotly 
 dash 
 beautifulsoup4 
