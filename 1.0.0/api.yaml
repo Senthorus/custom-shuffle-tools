@@ -6,11 +6,11 @@ tags:
   - Senthorus
   - Python
 categories:
-  - Other 
+  - Custom 
 contact_info:
   name: "@senthorus"
   url: https://shuffler.io
-  email: frikky@shuffler.io
+  email: soc@senthorus.ch
 actions:
   - name: custom_python
     description: Runs python with the data input. Any prints will be returned.
